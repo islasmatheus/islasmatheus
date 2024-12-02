@@ -16,8 +16,8 @@
 
 ### Minhas tecnologias
 
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
-<img></img>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px"></img>
 <!--
 **islasmatheus/islasmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
