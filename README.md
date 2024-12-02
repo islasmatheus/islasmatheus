@@ -23,7 +23,9 @@ ___negrito e italico___
 2. Lista 2
    1. Sublista
 
-[Texto da imagem](https://img.freepik.com/vetores-premium/laptop-de-banner-de-educacao-online-de-desenho-animado-com-elementos-de-aprendizagem-desenhados-a-mao_601576-22.jpg?w=900)
+[Texto da Imagem](https://img.freepik.com/vetores-premium/laptop-de-banner-de-educacao-online-de-desenho-animado-com-elementos-de-aprendizagem-desenhados-a-mao_601576-22.jpg?w=900)
+
+![Texto da Imagem](https://img.freepik.com/vetores-premium/laptop-de-banner-de-educacao-online-de-desenho-animado-com-elementos-de-aprendizagem-desenhados-a-mao_601576-22.jpg?w=900)
 
 
 <!--
