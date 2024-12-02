@@ -1,7 +1,5 @@
 ## Sejam Bem-Vindos!
 
-![Gif do Gatinho](https://media1.tenor.com/m/mBA6nsqEbUQAAAAd/leetcode-cat.gif)
-
 📚 Olá, me chamo Islas Matheus!
 
 💻 Sou estudante de Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie
