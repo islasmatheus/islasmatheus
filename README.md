@@ -25,7 +25,7 @@
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=islasmatheus&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=islasmatheus&layout=compact)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=islasmatheus&layout=compact&theme=radical)
 <!--
 **islasmatheus/islasmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
