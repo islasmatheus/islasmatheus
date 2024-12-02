@@ -1,7 +1,14 @@
-## Sejam Bem-Vindos
+## Sejam Bem-Vindos!
 
-<center><h2></h2></center>
+![Gif do Gatinho](https://media1.tenor.com/m/mBA6nsqEbUQAAAAd/leetcode-cat.gif)
 
+📚 Olá, me chamo Islas Matheus!
+
+💻 Sou estudante de Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie
+
+👷 Sou formado em Engenharia Civil - Universidade Ceuma
+
+👨‍🎓 Busco estágios para aplicar meus conhecimentos na  área de programação
 
 
 <!--
