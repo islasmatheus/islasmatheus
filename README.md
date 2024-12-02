@@ -8,9 +8,16 @@
 
 👷 Sou formado em Engenharia Civil - Universidade Ceuma
 
-👨‍🎓 Busco estágios para aplicar meus conhecimentos na  área de programação
+👨‍🎓 Busco oportunidade de stágios para aplicar meus conhecimentos na  área de programação
 
+📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/islas-matheus/)
 
+---------
+
+### Minhas tecnologias
+
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
+<img></img>
 <!--
 **islasmatheus/islasmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
