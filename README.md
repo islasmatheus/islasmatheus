@@ -57,7 +57,6 @@ ___negrito e italico___
 |Texto 2     |
 |Texto 3     |
 |Texto 4     |
-||
 
 <!-- CheckBox -->
 
