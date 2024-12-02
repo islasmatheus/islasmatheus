@@ -23,7 +23,9 @@
 
 ---------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islasmatheus&show_icons=true&theme=radical)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=islasmatheus&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=islasmatheus&layout=compact)
 <!--
 **islasmatheus/islasmatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
